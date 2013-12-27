@@ -1,4 +1,2 @@
-swishlabs_blog_dec
-==================
-
-December Build
+swish_blog_theme
+================
